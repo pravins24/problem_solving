@@ -6,9 +6,26 @@
 | ------- |
 | [0039-combination-sum](https://github.com/pravins24/problem_solving/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pravins24/problem_solving/tree/master/0047-permutations-ii) |
+| [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
 | ------- |
 | [0039-combination-sum](https://github.com/pravins24/problem_solving/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pravins24/problem_solving/tree/master/0047-permutations-ii) |
+## Depth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
+## Union Find
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
+## Matrix
+|  |
+| ------- |
+| [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
 <!---LeetCode Topics End-->
