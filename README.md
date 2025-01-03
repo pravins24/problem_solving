@@ -28,4 +28,16 @@
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
+## Math
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
