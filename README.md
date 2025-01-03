@@ -42,4 +42,16 @@
 |  |
 | ------- |
 | [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
+## Hash Table
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pravins24/problem_solving/tree/master/0141-linked-list-cycle) |
+## Linked List
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pravins24/problem_solving/tree/master/0141-linked-list-cycle) |
+## Two Pointers
+|  |
+| ------- |
+| [0141-linked-list-cycle](https://github.com/pravins24/problem_solving/tree/master/0141-linked-list-cycle) |
 <!---LeetCode Topics End-->
