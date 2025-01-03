@@ -6,6 +6,7 @@
 | ------- |
 | [0039-combination-sum](https://github.com/pravins24/problem_solving/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/pravins24/problem_solving/tree/master/0047-permutations-ii) |
+| [0198-house-robber](https://github.com/pravins24/problem_solving/tree/master/0198-house-robber) |
 | [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
 ## Backtracking
 |  |
@@ -35,6 +36,7 @@
 ## Dynamic Programming
 |  |
 | ------- |
+| [0198-house-robber](https://github.com/pravins24/problem_solving/tree/master/0198-house-robber) |
 | [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 ## Memoization
 |  |
