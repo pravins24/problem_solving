@@ -32,6 +32,7 @@
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pravins24/problem_solving/tree/master/0013-roman-to-integer) |
 | [1236-n-th-tribonacci-number](https://github.com/pravins24/problem_solving/tree/master/1236-n-th-tribonacci-number) |
 ## Dynamic Programming
 |  |
@@ -45,6 +46,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/pravins24/problem_solving/tree/master/0013-roman-to-integer) |
 | [0141-linked-list-cycle](https://github.com/pravins24/problem_solving/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/pravins24/problem_solving/tree/master/0142-linked-list-cycle-ii) |
 ## Linked List
@@ -78,4 +80,8 @@
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/pravins24/problem_solving/tree/master/0023-merge-k-sorted-lists) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/pravins24/problem_solving/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
