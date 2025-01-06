@@ -84,4 +84,20 @@
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/pravins24/problem_solving/tree/master/0013-roman-to-integer) |
+## Binary Search
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+## Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
+## Binary Tree
+|  |
+| ------- |
+| [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 <!---LeetCode Topics End-->
