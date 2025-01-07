@@ -16,11 +16,13 @@
 ## Depth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/pravins24/problem_solving/tree/master/0101-symmetric-tree) |
 | [0199-binary-tree-right-side-view](https://github.com/pravins24/problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/pravins24/problem_solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pravins24/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pravins24/problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0200-number-of-islands](https://github.com/pravins24/problem_solving/tree/master/0200-number-of-islands) |
@@ -98,12 +100,14 @@
 ## Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/pravins24/problem_solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pravins24/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pravins24/problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
 ## Binary Tree
 |  |
 | ------- |
+| [0101-symmetric-tree](https://github.com/pravins24/problem_solving/tree/master/0101-symmetric-tree) |
 | [0102-binary-tree-level-order-traversal](https://github.com/pravins24/problem_solving/tree/master/0102-binary-tree-level-order-traversal) |
 | [0199-binary-tree-right-side-view](https://github.com/pravins24/problem_solving/tree/master/0199-binary-tree-right-side-view) |
 | [0222-count-complete-tree-nodes](https://github.com/pravins24/problem_solving/tree/master/0222-count-complete-tree-nodes) |
